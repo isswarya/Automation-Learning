@@ -13,7 +13,7 @@ public class ABC {
         BrowserContext brContext = chrome.newContext();
         Page page = chrome.newPage();
         page.navigate("https://www.saucedemo.com/");
-        // System.out.println("Hello");
+        System.out.println("Hello");
         page.click("text=Login");
         page.fill("#user-name", USERNAME);
         page.fill("#password", PASSWORD);
