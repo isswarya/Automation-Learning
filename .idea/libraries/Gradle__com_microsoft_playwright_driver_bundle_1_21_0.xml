@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.playwright:driver-bundle:1.21.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.playwright/driver-bundle/1.21.0/330e1137c26b46e0a1fec00db7437f39c3b76869/driver-bundle-1.21.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.playwright/driver-bundle/1.21.0/964cc4346c42c4e47e7d69fd9723f096d970510b/driver-bundle-1.21.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
